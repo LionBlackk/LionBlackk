@@ -1,4 +1,4 @@
-# 👋 Hi guys, I'm Hoang Vo 👩‍💻 Welcome to my profile!
+# 👋 Hi guys, I'm Hoang Vo 🦁 Welcome to my profile!
 ## 🖥️ See my portfolio at [My Portfolio](https://portfolio-lionblackk.vercel.app/)
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/clone.hoang.vo) 
